@@ -13,7 +13,7 @@ if pages == "Home":
     Hi, I'm [Your Name], a passionate [Your Profession] specializing in [Your Specialization]. 
     Explore my portfolio to learn more about my work and skills.
     """)
-    st.markdown("[LinkedIn Profile](https://linkedin.com/in/yourname) | [GitHub](https://github.com/yourname)")
+    st.markdown("[LinkedIn Profile](https://www.linkedin.com/in/hassan-imran-bb41902ba/) | [GitHub](https://github.com/hassan3208/)")
 
 # Projects Section
 elif pages == "Projects":

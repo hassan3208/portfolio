@@ -47,7 +47,7 @@ if pages == "Home":
         st.markdown(
             """
             **Connect with me:**  
-            [LinkedIn](https://www.linkedin.com/in/hassan-imran-bb41902ba/) | [GitHub](https://github.com/hassan3208) | [Portfolio Website](#)
+            [LinkedIn](https://www.linkedin.com/in/hassan-imran-bb41902ba/) | [GitHub](https://github.com/hassan3208) | [Portfolio Website](https://portfolio-zlhv5x8hcc8zebe2pqgxzb.streamlit.app/)
             """
         )
 

@@ -8,7 +8,7 @@ pages = st.sidebar.radio("Go to", ["Home", "Projects", "Skills", "Resume", "Cont
 # Home Section
 if pages == "Home":
     st.title("Welcome to My Portfolio")
-    st.image(r"C:\Users\hassan\Pictures\mobile phone\IMG_20211110_131942_796.jpg", width=200)  # Add your photo
+    st.image('https://media.licdn.com/dms/image/v2/D4E35AQHqYPV6tlw0iA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1735824421032?e=1738126800&v=beta&t=s1kHCKxVroOgydxJzRf70LFbEAL13YKsPNkir6TEH8E', width=200)  # Add your photo
     st.write("""
     Hi, I'm [Your Name], a passionate [Your Profession] specializing in [Your Specialization]. 
     Explore my portfolio to learn more about my work and skills.
